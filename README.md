@@ -1,4 +1,4 @@
-## Hi there 👋
+## Projeto Revista Fatec Luigi Papaiz & Trabalhos de PI do DSM 👋
 
 <!--
 **fatecluigipapaiz/fatecluigipapaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
